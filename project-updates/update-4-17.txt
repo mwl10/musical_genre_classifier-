@@ -1,0 +1,11 @@
+update-4-17
+
+Progress over the past week
+-- Describe what you have worked on over the past week in detail, including
+   any snags you may have hit --
+
+Completed parts
+-- Indicate which parts of the project you have completed this week --
+
+Next step
+-- Outline what you plan to work on in the coming week --
