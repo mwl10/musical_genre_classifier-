@@ -1,0 +1,4 @@
+I am thinking of doing a data analysis type of project in the musical sphere.
+I think that it would be interesting implementing a mechanism for classifying a piece of music's genre. Istill need to do a bit more brainstorming; and using this data I could make some conclusions what it 
+means for a song to be a particular genre (what aspects of the song classify it). I am a little unsure 
+as to how complicated the project would be (too hard or too easy) but I am sure we can dial that down in our meeting.
