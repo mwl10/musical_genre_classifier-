@@ -1,0 +1,28 @@
+Matthew Lowery
+Initial Project Proposal
+
+Goal: What are the goals of the project (the intended result)?
+
+The goal of my project is to build a classifier that will predict a song’s musical genre relative to its lyrical content. 
+
+computational/human classification should be interesting as it is relatively subjective
+
+Data: What data will you be using, and how (and/or from where) will you obtain it?
+
+Billboard charts for musical genre labels: classification based on key fan interactions with music, including album sales and downloads, track downloads, radio airplay and touring as well as streaming and social interactions on Facebook, Twitter, Vevo, Youtube, Spotify and other popular online destinations for music. 
+
+for lyrical content 
+http://millionsongdataset.com/pages/getting-dataset/
+
+Methods: What are the methods being uses to achieve the goal? If you are going to explore a few options indicate which ones and how you will go about deciding among them.
+
+k-nearest neighbors kNN classifiers, decision trees, and neural networks
+
+Timeline: Sketch out a rough timeline with 3-5 milestones between now and May 19.
+
+Milestone 1: Write programs to gather data and tag the songs with the musical genre
+Milestone 2: Preliminary project Presentation 
+Milestone 3: Implement classifier and discern relevant features 
+Milestone 4: Make conclusions based on results and do the paper
+
+
