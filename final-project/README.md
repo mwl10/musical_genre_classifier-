@@ -5,7 +5,7 @@ takes in MSD genre tag file, the musiXmatch lyrics file, and the file to write t
 ### filter3.txt: 
 the output of match_genre_to_bow.py, includes the genre tags and the bag-of-words for each song to be reformatted for classification 
 ### filter_and_classify.py
-takes in filter3.txt and reformats the genre tags and bag-of-words for each song to be input into the classifier 
+takes in filter3.txt and reformats the genre tags and bag-of-words for each song to be input into the classifier,, runs the classifier 
 ### mxm_dataset_test.txt
 ### mxm_dataset_train.txt
 datasets to combine for the bags-of-words/lyrics portion of each song 
