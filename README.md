@@ -1,7 +1,4 @@
-# Final-project-files
-Final project files
-
-This directory contains files needed for the final project. You may add other folders and files as you work on the final project. 
+# project-files
 
 Name | Contents
 -------- | --------
